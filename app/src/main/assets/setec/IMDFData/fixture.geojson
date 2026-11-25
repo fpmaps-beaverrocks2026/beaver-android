@@ -1,0 +1,3893 @@
+{
+  "features" : [
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213587267532,
+                37.496490302437678
+              ],
+              [
+                127.07211869321742,
+                37.496455198901138
+              ],
+              [
+                127.07220898025489,
+                37.496427886886778
+              ],
+              [
+                127.07222615971277,
+                37.496462990423318
+              ],
+              [
+                127.07213587267532,
+                37.496490302437678
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "af3245dc-2f62-456a-b4f7-b84439a6b490",
+      "properties" : {
+        "alt_name" : {
+          "en" : "Stage",
+          "ko" : "무대"
+        },
+        "anchor_id" : null,
+        "category" : "stage",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "Stage",
+          "ko" : "무대"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211811590346,
+                37.496448252558359
+              ],
+              [
+                127.07212424922339,
+                37.496446397216481
+              ],
+              [
+                127.07212157103679,
+                37.496440925349191
+              ],
+              [
+                127.07211543771685,
+                37.496442780691076
+              ],
+              [
+                127.07211811590346,
+                37.496448252558359
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "ead0baaa-6c3f-4d06-bcfb-91e0ec758523",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07219379428415,
+                37.496425358265071
+              ],
+              [
+                127.07219992760409,
+                37.496423502923193
+              ],
+              [
+                127.07219724941747,
+                37.496418031055903
+              ],
+              [
+                127.07219111609754,
+                37.496419886397788
+              ],
+              [
+                127.07219379428415,
+                37.496425358265071
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "460d2dda-6614-4950-83a5-6af40136ac2c",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07218538568634,
+                37.496427901883187
+              ],
+              [
+                127.07219151900627,
+                37.496426046541309
+              ],
+              [
+                127.07218884081966,
+                37.496420574674019
+              ],
+              [
+                127.07218270749973,
+                37.496422430015905
+              ],
+              [
+                127.07218538568634,
+                37.496427901883187
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "bed61270-a94a-45e8-99b7-0fd5223cbd6b",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.0721902556989,
+                37.496418128496693
+              ],
+              [
+                127.07219638901884,
+                37.496416273154807
+              ],
+              [
+                127.07219371083224,
+                37.496410801287524
+              ],
+              [
+                127.0721875775123,
+                37.496412656629403
+              ],
+              [
+                127.0721902556989,
+                37.496418128496693
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "0a396c90-051d-441d-b120-d8eb45d87a0f",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07217697708852,
+                37.496430445501304
+              ],
+              [
+                127.07218311040846,
+                37.496428590159425
+              ],
+              [
+                127.07218043222184,
+                37.496423118292135
+              ],
+              [
+                127.07217429890191,
+                37.496424973634021
+              ],
+              [
+                127.07217697708852,
+                37.496430445501304
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "57686e0b-f3be-4c60-a939-dbf7f08d5eaf",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07218184710109,
+                37.496420672114809
+              ],
+              [
+                127.07218798042102,
+                37.496418816772923
+              ],
+              [
+                127.07218530223442,
+                37.49641334490564
+              ],
+              [
+                127.07217916891449,
+                37.496415200247519
+              ],
+              [
+                127.07218184710109,
+                37.496420672114809
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "a056bee5-c5ed-4e13-a071-22694654e1fc",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07218671711365,
+                37.496410898728314
+              ],
+              [
+                127.07219285043359,
+                37.496409043386429
+              ],
+              [
+                127.07219017224699,
+                37.496403571519139
+              ],
+              [
+                127.07218403892705,
+                37.496405426861024
+              ],
+              [
+                127.07218671711365,
+                37.496410898728314
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "d18d73d5-54c7-409b-bf28-083447bb4854",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216856849071,
+                37.496432989119427
+              ],
+              [
+                127.07217470181064,
+                37.496431133777541
+              ],
+              [
+                127.07217202362403,
+                37.496425661910251
+              ],
+              [
+                127.07216589030411,
+                37.496427517252137
+              ],
+              [
+                127.07216856849071,
+                37.496432989119427
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "6d1e902a-53d3-4e3e-9853-eeb0bbabc8d9",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07217343850327,
+                37.496423215732925
+              ],
+              [
+                127.07217957182321,
+                37.496421360391039
+              ],
+              [
+                127.07217689363661,
+                37.496415888523757
+              ],
+              [
+                127.07217076031667,
+                37.496417743865642
+              ],
+              [
+                127.07217343850327,
+                37.496423215732925
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "abc64777-f068-4784-983b-214e0b765565",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07217830629823,
+                37.496413441589638
+              ],
+              [
+                127.07218443961816,
+                37.49641158624776
+              ],
+              [
+                127.07218176143155,
+                37.49640611438047
+              ],
+              [
+                127.07217562811161,
+                37.496407969722355
+              ],
+              [
+                127.07217830629823,
+                37.496413441589638
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "58ae3569-b28e-4eae-b2a5-fb4e97bca1b5",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07218317731115,
+                37.496403666472908
+              ],
+              [
+                127.07218931063109,
+                37.49640181113103
+              ],
+              [
+                127.07218663244448,
+                37.49639633926374
+              ],
+              [
+                127.07218049912454,
+                37.496398194605625
+              ],
+              [
+                127.07218317731115,
+                37.496403666472908
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "17ba6ecc-7652-466e-ae75-6aef0be4c6a1",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216015989289,
+                37.496435532737543
+              ],
+              [
+                127.07216629321283,
+                37.496433677395657
+              ],
+              [
+                127.07216361502621,
+                37.496428205528375
+              ],
+              [
+                127.07215748170628,
+                37.496430060870253
+              ],
+              [
+                127.07216015989289,
+                37.496435532737543
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "bcf679c3-b7db-4a75-b161-7bce02f68372",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216502990546,
+                37.496425759351041
+              ],
+              [
+                127.07217116322539,
+                37.496423904009163
+              ],
+              [
+                127.07216848503879,
+                37.496418432141873
+              ],
+              [
+                127.07216235171886,
+                37.496420287483758
+              ],
+              [
+                127.07216502990546,
+                37.496425759351041
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "f0424c0c-cb9e-4e25-9bfb-989908f11a5f",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216989770041,
+                37.496415985207761
+              ],
+              [
+                127.07217603102033,
+                37.496414129865876
+              ],
+              [
+                127.07217335283373,
+                37.496408657998586
+              ],
+              [
+                127.0721672195138,
+                37.496410513340471
+              ],
+              [
+                127.07216989770041,
+                37.496415985207761
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "1e527874-6eac-490e-b517-145f8761bc25",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07217476871334,
+                37.496406210091024
+              ],
+              [
+                127.07218090203327,
+                37.496404354749146
+              ],
+              [
+                127.07217822384666,
+                37.496398882881856
+              ],
+              [
+                127.07217209052673,
+                37.496400738223741
+              ],
+              [
+                127.07217476871334,
+                37.496406210091024
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "ea6af864-59f6-4f32-a6e9-1a768b95ae1e",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.0721796387259,
+                37.496396436704529
+              ],
+              [
+                127.07218577204584,
+                37.496394581362644
+              ],
+              [
+                127.07218309385924,
+                37.496389109495361
+              ],
+              [
+                127.0721769605393,
+                37.496390964837239
+              ],
+              [
+                127.0721796387259,
+                37.496396436704529
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "6daf0ba5-bfce-42af-a142-dc6fff20e886",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215175129508,
+                37.496438076355659
+              ],
+              [
+                127.07215788461501,
+                37.496436221013774
+              ],
+              [
+                127.07215520642841,
+                37.496430749146491
+              ],
+              [
+                127.07214907310848,
+                37.496432604488369
+              ],
+              [
+                127.07215175129508,
+                37.496438076355659
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "729ab2d8-29b5-4662-9cf3-98a6f1a62552",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215662130764,
+                37.496428302969157
+              ],
+              [
+                127.07216275462758,
+                37.496426447627279
+              ],
+              [
+                127.07216007644098,
+                37.496420975759989
+              ],
+              [
+                127.07215394312104,
+                37.496422831101874
+              ],
+              [
+                127.07215662130764,
+                37.496428302969157
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "142116a3-a2c3-4c5b-8b10-642b1d1f91e8",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.0721614891026,
+                37.496418528825878
+              ],
+              [
+                127.07216762242253,
+                37.496416673483992
+              ],
+              [
+                127.07216494423592,
+                37.496411201616709
+              ],
+              [
+                127.07215881091598,
+                37.496413056958588
+              ],
+              [
+                127.0721614891026,
+                37.496418528825878
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "9a481f7f-fd1d-4642-aca3-bcbb9e40014b",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216636011552,
+                37.49640875370914
+              ],
+              [
+                127.07217249343546,
+                37.496406898367262
+              ],
+              [
+                127.07216981524886,
+                37.496401426499972
+              ],
+              [
+                127.07216368192891,
+                37.496403281841857
+              ],
+              [
+                127.07216636011552,
+                37.49640875370914
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "7b0a12bf-a7bb-4df0-ad8c-4bbe60aa174a",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07217123012809,
+                37.496398980322645
+              ],
+              [
+                127.07217736344802,
+                37.49639712498076
+              ],
+              [
+                127.07217468526142,
+                37.496391653113477
+              ],
+              [
+                127.07216855194149,
+                37.496393508455355
+              ],
+              [
+                127.07217123012809,
+                37.496398980322645
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "321447ac-f731-4c24-ad99-84565fbc359d",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07217610014067,
+                37.496389206936144
+              ],
+              [
+                127.07218223346059,
+                37.496387351594265
+              ],
+              [
+                127.07217955527399,
+                37.496381879726975
+              ],
+              [
+                127.07217342195405,
+                37.496383735068861
+              ],
+              [
+                127.07217610014067,
+                37.496389206936144
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "ab6605cf-fd1c-406a-8b57-64a3cc29abdc",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214334269726,
+                37.496440619973775
+              ],
+              [
+                127.0721494760172,
+                37.49643876463189
+              ],
+              [
+                127.07214679783058,
+                37.496433292764607
+              ],
+              [
+                127.07214066451066,
+                37.496435148106492
+              ],
+              [
+                127.07214334269726,
+                37.496440619973775
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "76af143b-c4cd-4baf-8b7a-12633300d065",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214821270983,
+                37.49643084658728
+              ],
+              [
+                127.07215434602976,
+                37.496428991245395
+              ],
+              [
+                127.07215166784316,
+                37.496423519378105
+              ],
+              [
+                127.07214553452323,
+                37.49642537471999
+              ],
+              [
+                127.07214821270983,
+                37.49643084658728
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "f5e48f62-f25a-4f28-8fc9-314b6ce59ba2",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215308050478,
+                37.496421072443994
+              ],
+              [
+                127.0721592138247,
+                37.496419217102108
+              ],
+              [
+                127.0721565356381,
+                37.496413745234825
+              ],
+              [
+                127.07215040231817,
+                37.496415600576704
+              ],
+              [
+                127.07215308050478,
+                37.496421072443994
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "0f863e4f-9f9a-4fa6-8546-b07cd6236046",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215795151771,
+                37.496411297327263
+              ],
+              [
+                127.07216408483764,
+                37.496409441985378
+              ],
+              [
+                127.07216140665103,
+                37.496403970118088
+              ],
+              [
+                127.07215527333111,
+                37.496405825459973
+              ],
+              [
+                127.07215795151771,
+                37.496411297327263
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "d5c10fab-f4a7-488c-930e-6cd0031ab4cd",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216282153027,
+                37.496401523940762
+              ],
+              [
+                127.07216895485021,
+                37.496399668598876
+              ],
+              [
+                127.07216627666361,
+                37.496394196731593
+              ],
+              [
+                127.07216014334367,
+                37.496396052073479
+              ],
+              [
+                127.07216282153027,
+                37.496401523940762
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "00abb514-5eb8-4560-b57b-54d8b5ee6ba2",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216769154284,
+                37.496391750554267
+              ],
+              [
+                127.07217382486279,
+                37.496389895212381
+              ],
+              [
+                127.07217114667617,
+                37.496384423345091
+              ],
+              [
+                127.07216501335624,
+                37.496386278686977
+              ],
+              [
+                127.07216769154284,
+                37.496391750554267
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "1ed2a73b-face-4d2e-9069-52207096dcc9",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07217256033815,
+                37.496381974680745
+              ],
+              [
+                127.07217869365809,
+                37.496380119338859
+              ],
+              [
+                127.07217601547148,
+                37.496374647471576
+              ],
+              [
+                127.07216988215154,
+                37.496376502813462
+              ],
+              [
+                127.07217256033815,
+                37.496381974680745
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "bce8c1e9-86eb-41e8-92c0-3dfbbce9834d",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213493409945,
+                37.496443163591891
+              ],
+              [
+                127.07214106741938,
+                37.496441308250013
+              ],
+              [
+                127.07213838923278,
+                37.496435836382723
+              ],
+              [
+                127.07213225591285,
+                37.496437691724608
+              ],
+              [
+                127.07213493409945,
+                37.496443163591891
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "ad5851fe-18ec-4ede-82ce-a528b6fd4fbf",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213980189439,
+                37.496433389448612
+              ],
+              [
+                127.07214593521432,
+                37.496431534106726
+              ],
+              [
+                127.07214325702772,
+                37.496426062239436
+              ],
+              [
+                127.07213712370779,
+                37.496427917581322
+              ],
+              [
+                127.07213980189439,
+                37.496433389448612
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "f3c304be-ff3d-4c8b-b164-f7004251929a",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214467190697,
+                37.49642361606211
+              ],
+              [
+                127.0721508052269,
+                37.496421760720224
+              ],
+              [
+                127.07214812704029,
+                37.496416288852942
+              ],
+              [
+                127.07214199372035,
+                37.49641814419482
+              ],
+              [
+                127.07214467190697,
+                37.49642361606211
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "e5523676-4405-48c3-ac09-0e075370435c",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214954291989,
+                37.49641384094538
+              ],
+              [
+                127.07215567623983,
+                37.496411985603494
+              ],
+              [
+                127.07215299805323,
+                37.496406513736211
+              ],
+              [
+                127.07214686473328,
+                37.49640836907809
+              ],
+              [
+                127.07214954291989,
+                37.49641384094538
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "cb6fac7d-e51f-4a17-84c1-280e1afed8b2",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215441293246,
+                37.496404067558878
+              ],
+              [
+                127.07216054625239,
+                37.496402212216999
+              ],
+              [
+                127.07215786806579,
+                37.496396740349709
+              ],
+              [
+                127.07215173474586,
+                37.496398595691595
+              ],
+              [
+                127.07215441293246,
+                37.496404067558878
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "a8d8e01d-f0f6-4b57-b069-4d577a24fe84",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215928294504,
+                37.496394294172383
+              ],
+              [
+                127.07216541626497,
+                37.496392438830497
+              ],
+              [
+                127.07216273807836,
+                37.496386966963215
+              ],
+              [
+                127.07215660475843,
+                37.496388822305093
+              ],
+              [
+                127.07215928294504,
+                37.496394294172383
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "0598f180-670d-4190-8cf1-ed153338822c",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216415073998,
+                37.496384520029096
+              ],
+              [
+                127.07217028405991,
+                37.496382664687211
+              ],
+              [
+                127.0721676058733,
+                37.496377192819928
+              ],
+              [
+                127.07216147255338,
+                37.496379048161813
+              ],
+              [
+                127.07216415073998,
+                37.496384520029096
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "d765511b-9e3f-4f54-bfcf-6c85b5d4cbba",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216902175291,
+                37.496374744912366
+              ],
+              [
+                127.07217515507284,
+                37.49637288957048
+              ],
+              [
+                127.07217247688624,
+                37.496367417703198
+              ],
+              [
+                127.07216634356629,
+                37.496369273045076
+              ],
+              [
+                127.07216902175291,
+                37.496374744912366
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "1646f2e9-a4d6-46ce-9076-0c9eaf802963",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07212652450127,
+                37.496445708940243
+              ],
+              [
+                127.0721326578212,
+                37.496443853598358
+              ],
+              [
+                127.0721299796346,
+                37.496438381731075
+              ],
+              [
+                127.07212384631467,
+                37.49644023707296
+              ],
+              [
+                127.07212652450127,
+                37.496445708940243
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "2abef823-2cc4-4157-b252-bb98a4d51b87",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213139329657,
+                37.496435933066728
+              ],
+              [
+                127.07213752661652,
+                37.496434077724842
+              ],
+              [
+                127.07213484842991,
+                37.496428605857552
+              ],
+              [
+                127.07212871510997,
+                37.496430461199438
+              ],
+              [
+                127.07213139329657,
+                37.496435933066728
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "10cda30e-1143-4ce1-abce-4a8194179db9",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213626330915,
+                37.496426159680226
+              ],
+              [
+                127.07214239662908,
+                37.496424304338348
+              ],
+              [
+                127.07213971844247,
+                37.496418832471058
+              ],
+              [
+                127.07213358512254,
+                37.496420687812943
+              ],
+              [
+                127.07213626330915,
+                37.496426159680226
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "f22d884f-16bd-48f9-a72c-df5cbf09ff3f",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214113332172,
+                37.496416386293731
+              ],
+              [
+                127.07214726664165,
+                37.496414530951846
+              ],
+              [
+                127.07214458845505,
+                37.496409059084556
+              ],
+              [
+                127.07213845513512,
+                37.496410914426441
+              ],
+              [
+                127.07214113332172,
+                37.496416386293731
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "c6e5caf8-795b-4f71-8dc4-542b1300b1bd",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214600433466,
+                37.496406611176994
+              ],
+              [
+                127.07215213765458,
+                37.496404755835115
+              ],
+              [
+                127.07214945946798,
+                37.496399283967826
+              ],
+              [
+                127.07214332614804,
+                37.496401139309711
+              ],
+              [
+                127.07214600433466,
+                37.496406611176994
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "2162ec10-e825-4743-8550-37f235525449",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215087434722,
+                37.496396837790499
+              ],
+              [
+                127.07215700766716,
+                37.496394982448614
+              ],
+              [
+                127.07215432948054,
+                37.496389510581331
+              ],
+              [
+                127.07214819616061,
+                37.496391365923209
+              ],
+              [
+                127.07215087434722,
+                37.496396837790499
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "1d3970af-f585-48f6-bb49-2da3e5c1a247",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215574214216,
+                37.496387063647212
+              ],
+              [
+                127.0721618754621,
+                37.496385208305334
+              ],
+              [
+                127.0721591972755,
+                37.496379736438044
+              ],
+              [
+                127.07215306395555,
+                37.496381591779929
+              ],
+              [
+                127.07215574214216,
+                37.496387063647212
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "d9c25b85-395e-4f51-a1d9-61a1d59c3efc",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07216061315509,
+                37.496377288530482
+              ],
+              [
+                127.07216674647503,
+                37.496375433188597
+              ],
+              [
+                127.07216406828842,
+                37.496369961321314
+              ],
+              [
+                127.07215793496849,
+                37.496371816663192
+              ],
+              [
+                127.07216061315509,
+                37.496377288530482
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "15f77580-ac71-4d4a-a778-afcc19fb12ea",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07212298469877,
+                37.496438476684844
+              ],
+              [
+                127.07212911801869,
+                37.496436621342959
+              ],
+              [
+                127.07212643983209,
+                37.496431149475676
+              ],
+              [
+                127.07212030651216,
+                37.496433004817554
+              ],
+              [
+                127.07212298469877,
+                37.496438476684844
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "da750e27-305c-424f-a41b-59fb8e0f413f",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07212785471134,
+                37.496428703298342
+              ],
+              [
+                127.07213398803127,
+                37.496426847956464
+              ],
+              [
+                127.07213130984466,
+                37.496421376089174
+              ],
+              [
+                127.07212517652472,
+                37.496423231431059
+              ],
+              [
+                127.07212785471134,
+                37.496428703298342
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "cf1c5125-139d-44cf-ab64-62135613ad7e",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.0721327247239,
+                37.496418929911847
+              ],
+              [
+                127.07213885804384,
+                37.496417074569962
+              ],
+              [
+                127.07213617985722,
+                37.496411602702679
+              ],
+              [
+                127.0721300465373,
+                37.496413458044557
+              ],
+              [
+                127.0721327247239,
+                37.496418929911847
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "e88202db-9e70-4bd4-b200-7bf6e1e2e784",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213759573683,
+                37.496409154795117
+              ],
+              [
+                127.07214372905676,
+                37.496407299453232
+              ],
+              [
+                127.07214105087016,
+                37.496401827585942
+              ],
+              [
+                127.07213491755023,
+                37.496403682927827
+              ],
+              [
+                127.07213759573683,
+                37.496409154795117
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "52f7b4e7-3da8-4f81-806c-0b389359b824",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214246574941,
+                37.496399381408615
+              ],
+              [
+                127.07214859906934,
+                37.49639752606673
+              ],
+              [
+                127.07214592088273,
+                37.496392054199447
+              ],
+              [
+                127.0721397875628,
+                37.496393909541332
+              ],
+              [
+                127.07214246574941,
+                37.496399381408615
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "a915bf92-d290-4c35-bc54-c623cc985116",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214733354435,
+                37.496389607265328
+              ],
+              [
+                127.07215346686428,
+                37.49638775192345
+              ],
+              [
+                127.07215078867767,
+                37.49638228005616
+              ],
+              [
+                127.07214465535775,
+                37.496384135398046
+              ],
+              [
+                127.07214733354435,
+                37.496389607265328
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "bef4b8c6-544d-4642-86b6-e88e9f636429",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07215220455728,
+                37.496379832148598
+              ],
+              [
+                127.07215833787721,
+                37.496377976806713
+              ],
+              [
+                127.07215565969061,
+                37.49637250493943
+              ],
+              [
+                127.07214952637068,
+                37.496374360281315
+              ],
+              [
+                127.07215220455728,
+                37.496379832148598
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "3e35ef15-be1c-494c-855c-b5f046617f37",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211457610094,
+                37.49644102030296
+              ],
+              [
+                127.07212070942089,
+                37.496439164961075
+              ],
+              [
+                127.07211803123428,
+                37.496433693093792
+              ],
+              [
+                127.07211189791434,
+                37.49643554843567
+              ],
+              [
+                127.07211457610094,
+                37.49644102030296
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "e46fdc9c-576d-444c-8aec-028df1cffb81",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211944611352,
+                37.496431246916458
+              ],
+              [
+                127.07212557943345,
+                37.49642939157458
+              ],
+              [
+                127.07212290124684,
+                37.49642391970729
+              ],
+              [
+                127.07211676792691,
+                37.496425775049175
+              ],
+              [
+                127.07211944611352,
+                37.496431246916458
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "f6fa90f4-462c-424f-ba5f-36b114029455",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07212431612609,
+                37.496421473529963
+              ],
+              [
+                127.07213044944602,
+                37.496419618188078
+              ],
+              [
+                127.07212777125942,
+                37.496414146320795
+              ],
+              [
+                127.07212163793949,
+                37.496416001662674
+              ],
+              [
+                127.07212431612609,
+                37.496421473529963
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "6f0ccb4b-fc87-4a3e-8048-995a44b115ac",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07212918713903,
+                37.496411698413233
+              ],
+              [
+                127.07213532045895,
+                37.496409843071348
+              ],
+              [
+                127.07213264227235,
+                37.496404371204065
+              ],
+              [
+                127.07212650895241,
+                37.496406226545943
+              ],
+              [
+                127.07212918713903,
+                37.496411698413233
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "e6a950b2-a219-4ba4-b73c-d082476b013b",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213405493397,
+                37.496401924269946
+              ],
+              [
+                127.0721401882539,
+                37.496400068928061
+              ],
+              [
+                127.07213751006729,
+                37.496394597060778
+              ],
+              [
+                127.07213137674736,
+                37.496396452402657
+              ],
+              [
+                127.07213405493397,
+                37.496401924269946
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "7557eec1-44e7-4586-ba4d-0b3ad6f8777e",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213892494653,
+                37.496392150883452
+              ],
+              [
+                127.07214505826647,
+                37.496390295541566
+              ],
+              [
+                127.07214238007987,
+                37.496384823674276
+              ],
+              [
+                127.07213624675992,
+                37.496386679016162
+              ],
+              [
+                127.07213892494653,
+                37.496392150883452
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "7af41b54-70a5-4237-aaa5-4d60f204da48",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07214379595946,
+                37.496382375766714
+              ],
+              [
+                127.07214992927941,
+                37.496380520424836
+              ],
+              [
+                127.07214725109279,
+                37.496375048557546
+              ],
+              [
+                127.07214111777286,
+                37.496376903899431
+              ],
+              [
+                127.07214379595946,
+                37.496382375766714
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "f50ff211-8b9b-46ee-9a2a-4e1ad7a38ee7",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211103751571,
+                37.496433790534581
+              ],
+              [
+                127.07211717083564,
+                37.496431935192696
+              ],
+              [
+                127.07211449264904,
+                37.496426463325406
+              ],
+              [
+                127.07210835932909,
+                37.496428318667292
+              ],
+              [
+                127.07211103751571,
+                37.496433790534581
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "b29877d2-aedf-42b9-8faa-f0d617a565f1",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211590752827,
+                37.49642401714808
+              ],
+              [
+                127.07212204084821,
+                37.496422161806194
+              ],
+              [
+                127.0721193626616,
+                37.496416689938911
+              ],
+              [
+                127.07211322934167,
+                37.496418545280797
+              ],
+              [
+                127.07211590752827,
+                37.49642401714808
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "3988fbe3-ca96-4426-bb23-fbdfa61b6264",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.0721207785412,
+                37.496414242031349
+              ],
+              [
+                127.07212691186113,
+                37.496412386689464
+              ],
+              [
+                127.07212423367453,
+                37.496406914822181
+              ],
+              [
+                127.0721181003546,
+                37.496408770164059
+              ],
+              [
+                127.0721207785412,
+                37.496414242031349
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "de60cf42-d007-4801-9036-06726d77ff4f",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07212564633615,
+                37.496404467888063
+              ],
+              [
+                127.07213177965609,
+                37.496402612546184
+              ],
+              [
+                127.07212910146947,
+                37.496397140678894
+              ],
+              [
+                127.07212296814954,
+                37.49639899602078
+              ],
+              [
+                127.07212564633615,
+                37.496404467888063
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "e60071f3-39cd-4972-b40c-3c01cd2fac0f",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213051634872,
+                37.496394694501568
+              ],
+              [
+                127.07213664966865,
+                37.496392839159682
+              ],
+              [
+                127.07213397148205,
+                37.496387367292392
+              ],
+              [
+                127.07212783816212,
+                37.496389222634278
+              ],
+              [
+                127.07213051634872,
+                37.496394694501568
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "627db4c9-a921-40b5-8ed6-50015421b424",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07213538736166,
+                37.49638491938483
+              ],
+              [
+                127.07214152068158,
+                37.496383064042952
+              ],
+              [
+                127.07213884249498,
+                37.496377592175662
+              ],
+              [
+                127.07213270917505,
+                37.496379447517548
+              ],
+              [
+                127.07213538736166,
+                37.49638491938483
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "c56eeaee-3eaa-4e87-a48d-b6f1cdcb8f1b",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07210749893046,
+                37.496426560766196
+              ],
+              [
+                127.07211363225039,
+                37.496424705424317
+              ],
+              [
+                127.07211095406379,
+                37.496419233557027
+              ],
+              [
+                127.07210482074386,
+                37.496421088898913
+              ],
+              [
+                127.07210749893046,
+                37.496426560766196
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "e1d7647d-231c-4e82-b6da-92ea1acb7498",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.0721123699434,
+                37.496416785649465
+              ],
+              [
+                127.07211850326333,
+                37.49641493030758
+              ],
+              [
+                127.07211582507672,
+                37.496409458440297
+              ],
+              [
+                127.07210969175678,
+                37.496411313782176
+              ],
+              [
+                127.0721123699434,
+                37.496416785649465
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "82a1766b-91c5-473e-88c0-1f9c5e7147b0",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211723773834,
+                37.496407011506179
+              ],
+              [
+                127.07212337105827,
+                37.4964051561643
+              ],
+              [
+                127.07212069287166,
+                37.49639968429701
+              ],
+              [
+                127.07211455955174,
+                37.496401539638896
+              ],
+              [
+                127.07211723773834,
+                37.496407011506179
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "bcef6f0e-83f0-45c0-b653-f30321d8b185",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.0721221077509,
+                37.496397238119684
+              ],
+              [
+                127.07212824107084,
+                37.496395382777798
+              ],
+              [
+                127.07212556288424,
+                37.496389910910516
+              ],
+              [
+                127.0721194295643,
+                37.496391766252394
+              ],
+              [
+                127.0721221077509,
+                37.496397238119684
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "b27ae5b5-6fa6-4e71-a353-fa501095841c",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07212697876383,
+                37.496387463002954
+              ],
+              [
+                127.07213311208378,
+                37.496385607661068
+              ],
+              [
+                127.07213043389716,
+                37.496380135793778
+              ],
+              [
+                127.07212430057723,
+                37.496381991135664
+              ],
+              [
+                127.07212697876383,
+                37.496387463002954
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "8c569bb2-8527-4db7-a4e3-70b7b5ab8ff6",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07210395912796,
+                37.496419328510797
+              ],
+              [
+                127.07211009244789,
+                37.496417473168911
+              ],
+              [
+                127.07210741426128,
+                37.496412001301628
+              ],
+              [
+                127.07210128094134,
+                37.496413856643507
+              ],
+              [
+                127.07210395912796,
+                37.496419328510797
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "420a55cc-6d26-40a6-b152-631bea02375b",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07210882914052,
+                37.496409555124295
+              ],
+              [
+                127.07211496246046,
+                37.496407699782417
+              ],
+              [
+                127.07211228427384,
+                37.496402227915127
+              ],
+              [
+                127.07210615095391,
+                37.496404083257012
+              ],
+              [
+                127.07210882914052,
+                37.496409555124295
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "d434e02d-55a4-407b-83ec-55df06cda2cc",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211369915309,
+                37.4963997817378
+              ],
+              [
+                127.07211983247302,
+                37.496397926395915
+              ],
+              [
+                127.07211715428642,
+                37.496392454528632
+              ],
+              [
+                127.07211102096649,
+                37.49639430987051
+              ],
+              [
+                127.07211369915309,
+                37.4963997817378
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "eb10de50-39fd-4ee1-952a-b041dd3df59a",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211857016603,
+                37.49639000662107
+              ],
+              [
+                127.07212470348595,
+                37.496388151279184
+              ],
+              [
+                127.07212202529935,
+                37.496382679411894
+              ],
+              [
+                127.07211589197942,
+                37.49638453475378
+              ],
+              [
+                127.07211857016603,
+                37.49639000662107
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "e37532ec-ccd3-4a8a-b723-57193b6da032",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07210042054271,
+                37.496412098742418
+              ],
+              [
+                127.07210655386264,
+                37.496410243400533
+              ],
+              [
+                127.07210387567604,
+                37.496404771533243
+              ],
+              [
+                127.07209774235611,
+                37.496406626875128
+              ],
+              [
+                127.07210042054271,
+                37.496412098742418
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "006f8ef0-c735-4d20-bd9e-142d29ca4fc8",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07210529055527,
+                37.496402325355916
+              ],
+              [
+                127.07211142387521,
+                37.496400470014031
+              ],
+              [
+                127.07210874568861,
+                37.496394998146748
+              ],
+              [
+                127.07210261236867,
+                37.496396853488633
+              ],
+              [
+                127.07210529055527,
+                37.496402325355916
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "41ac1623-3a14-4814-94aa-043b12050db8",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07211016056785,
+                37.496392551969421
+              ],
+              [
+                127.07211629388777,
+                37.496390696627536
+              ],
+              [
+                127.07211361570117,
+                37.496385224760246
+              ],
+              [
+                127.07210748238124,
+                37.496387080102132
+              ],
+              [
+                127.07211016056785,
+                37.496392551969421
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "294cddc3-954b-4934-a3de-d6ddf8fe5e08",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07209688195746,
+                37.496404868974032
+              ],
+              [
+                127.07210301527739,
+                37.496403013632154
+              ],
+              [
+                127.07210033709079,
+                37.496397541764864
+              ],
+              [
+                127.07209420377086,
+                37.49639939710675
+              ],
+              [
+                127.07209688195746,
+                37.496404868974032
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "d9c3eab0-ddfa-4431-948b-6896ea505305",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07210175197004,
+                37.496395095587538
+              ],
+              [
+                127.07210788528997,
+                37.496393240245652
+              ],
+              [
+                127.07210520710336,
+                37.496387768378369
+              ],
+              [
+                127.07209907378342,
+                37.496389623720248
+              ],
+              [
+                127.07210175197004,
+                37.496395095587538
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "87cb56db-dd91-4c0f-89e2-f7cf061d4edd",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "fixture",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              [
+                127.07209334337222,
+                37.496397639205654
+              ],
+              [
+                127.07209947669215,
+                37.496395783863768
+              ],
+              [
+                127.07209679850554,
+                37.496390311996485
+              ],
+              [
+                127.07209066518561,
+                37.496392167338364
+              ],
+              [
+                127.07209334337222,
+                37.496397639205654
+              ]
+            ]
+          ]
+        ],
+        "type" : "MultiPolygon"
+      },
+      "id" : "83df67bd-da3e-4cf4-95af-f173160a8a63",
+      "properties" : {
+        "alt_name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        },
+        "anchor_id" : null,
+        "category" : "furniture",
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "seat",
+          "ko" : "좌석"
+        }
+      },
+      "type" : "Feature"
+    }
+  ],
+  "type" : "FeatureCollection"
+}

@@ -1,0 +1,1265 @@
+{
+  "features" : [
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07233136787666,
+            37.496413402257396
+          ],
+          [
+            127.07233580948076,
+            37.496405720018771
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "0da04a5b-b161-4330-acf3-090de96bf6ae",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07233923071634,
+            37.496399802618747
+          ],
+          [
+            127.07234349225541,
+            37.496392431822223
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "abd40e55-9c51-4f03-9a31-b5b7528ba198",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07236516008079,
+            37.496354954955407
+          ],
+          [
+            127.07236936159818,
+            37.496347687972921
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "b46a00e4-eeb8-40aa-aece-3cd8140fb6c5",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07240693516796,
+            37.496282700386693
+          ],
+          [
+            127.07241119670702,
+            37.496275329590176
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "e1436a89-c272-4406-9c6b-6c5f8da6ac0e",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07200182419545,
+            37.496000516286465
+          ],
+          [
+            127.07196458111179,
+            37.495988055308494
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "eeef7930-e5f8-4c6e-8127-301a79581a51",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07193317954365,
+            37.495977339211635
+          ],
+          [
+            127.07189645567581,
+            37.49596480682716
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "a96a9696-d5e0-4047-a256-596f8189c43b",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07199884695757,
+            37.495854942830185
+          ],
+          [
+            127.07198460497361,
+            37.49582584469119
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "2962d3cb-d0c7-4d42-956a-0897bd8c0c0a",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07189557431492,
+            37.495643944017161
+          ],
+          [
+            127.07188131300931,
+            37.495614806401655
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "fc279230-b32d-4628-9e9a-ef1587866c52",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07210592949589,
+            37.495490627892103
+          ],
+          [
+            127.07209627553745,
+            37.495493548234371
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "3b2b6ae1-6232-4301-8014-e2f1f9b40353",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07209144855821,
+            37.495495008405506
+          ],
+          [
+            127.07208179459975,
+            37.495497928747774
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "2012f207-6a48-4b9f-8e31-c755c5233562",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07210454457937,
+            37.496035570637225
+          ],
+          [
+            127.07211018661701,
+            37.496025812117892
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "656737fa-c43b-4379-8d95-0124638b0710",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07212945357531,
+            37.495992487812494
+          ],
+          [
+            127.07213527567798,
+            37.495982417851046
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "8ca783c2-6b4d-4553-9890-193a9ed124b3",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.0722291669536,
+            37.496356232505732
+          ],
+          [
+            127.07227518357261,
+            37.496276641745176
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "e7dd6a98-eccf-4860-8695-b585a1bee280",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07228818826928,
+            37.496254148704146
+          ],
+          [
+            127.07233420488829,
+            37.49617455794359
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "e99e8c36-0358-4ec3-b4cb-77ce87e24204",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07230509248666,
+            37.496169802090385
+          ],
+          [
+            127.07227426750099,
+            37.496159282758008
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "e7b13465-1819-4e82-88e8-3705f16543e0",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07227426750099,
+            37.496159282758008
+          ],
+          [
+            127.0722434425153,
+            37.49614876342563
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "e550951f-558f-4c3b-8b0a-073da4237f11",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.0722434425153,
+            37.49614876342563
+          ],
+          [
+            127.07221261752963,
+            37.49613824409326
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "77f453ff-4286-4c03-a512-c7bb41c89e41",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07221261752963,
+            37.49613824409326
+          ],
+          [
+            127.07218179254396,
+            37.496127724760882
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "0631a130-0f88-4af1-86e2-f5a0b8a657b9",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07218179254396,
+            37.496127724760882
+          ],
+          [
+            127.07215096755827,
+            37.496117205428511
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "131850cd-bd73-4a86-8b38-9c6bd3f079e7",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07215096755827,
+            37.496117205428511
+          ],
+          [
+            127.0721201425726,
+            37.496106686096134
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "3d8ee08a-3d04-493e-a298-ddb072978f66",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.0721201425726,
+            37.496106686096134
+          ],
+          [
+            127.07208931758692,
+            37.496096166763756
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "a96179a1-74cc-4583-9269-63382b0718d2",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07208931758692,
+            37.496096166763756
+          ],
+          [
+            127.07205849260124,
+            37.496085647431386
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "cd086fd3-95d3-4e0e-b52e-4c33018a6432",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07205849260124,
+            37.496085647431386
+          ],
+          [
+            127.07202766761556,
+            37.496075128099008
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "bcb57d07-26ec-4e59-b80d-fb7387c498cf",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07202766761556,
+            37.496075128099008
+          ],
+          [
+            127.07199684262989,
+            37.496064608766638
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "18ca38d1-7a8d-425a-9fca-c5afe5406fd5",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07202866922512,
+            37.496450432611255
+          ],
+          [
+            127.07199762247696,
+            37.496439837600228
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "d2cbeda4-6d5c-4b04-a271-b98e83b9c2d4",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07199762247696,
+            37.496439837600228
+          ],
+          [
+            127.07196657572879,
+            37.496429242589201
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "9b0ce484-2192-42d7-b2b0-b654e487c99a",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07196657572879,
+            37.496429242589201
+          ],
+          [
+            127.07193552898062,
+            37.496418647578182
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "6f8faede-8bbe-4f4e-bb1c-60782f0ce50f",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07193552898062,
+            37.496418647578182
+          ],
+          [
+            127.07190448223245,
+            37.496408052567155
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "d4cef86b-f070-497d-808c-00373d652d63",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07190448223245,
+            37.496408052567155
+          ],
+          [
+            127.07187343548429,
+            37.496397457556128
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "49a626d7-bbab-4592-819e-45ffecd76110",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07187343548429,
+            37.496397457556128
+          ],
+          [
+            127.07184238873613,
+            37.496386862545101
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "939e3c4f-740c-46ac-bf70-b2f97ad819b3",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07179079218047,
+            37.495845841992313
+          ],
+          [
+            127.07176924661499,
+            37.495801821730758
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "1d0223aa-b3f5-4cf2-9465-4b0aca1e7e26",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.071755808025,
+            37.495774365025241
+          ],
+          [
+            127.07173426245953,
+            37.495730344763686
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "303384f8-e33b-4d78-9c53-f93c745f1282",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07171097073358,
+            37.495586290984626
+          ],
+          [
+            127.07172753671641,
+            37.495557638310821
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "013d1932-6a55-4176-a83e-9f538439cbcb",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07174170183218,
+            37.495533138198446
+          ],
+          [
+            127.07175820779334,
+            37.49550458933868
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "69b85050-33f7-4284-a953-23555a4adef5",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07187344228061,
+            37.495447459757223
+          ],
+          [
+            127.07186053570388,
+            37.495443055259777
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "b9fffd78-064e-4a9b-9015-98d2d33a7f4e",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.0718178242489,
+            37.495428479551755
+          ],
+          [
+            127.07180531684465,
+            37.495424211275889
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "01dabcdf-9631-4f8e-bc54-925dd6600e8a",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07195683220195,
+            37.49550189547471
+          ],
+          [
+            127.07194717824351,
+            37.495504815816979
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "bbe0a42e-581a-4681-9247-3db8df0c3c28",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07194067357342,
+            37.495506697835687
+          ],
+          [
+            127.07193101961496,
+            37.495509618177955
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "09239c4a-ad8e-4f62-8a95-10bd2451bee4",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07189452765201,
+            37.495520657071737
+          ],
+          [
+            127.07188528588017,
+            37.495523966670838
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "fd71b01a-018c-4241-aa45-a4f552240b13",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07218956640067,
+            37.49603786131663
+          ],
+          [
+            127.07217799039884,
+            37.496033910891093
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "47cc83d7-7995-4c18-b41f-f97bd8aad363",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07216593813965,
+            37.495999096571921
+          ],
+          [
+            127.07215449519532,
+            37.495995191553568
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "87fd77bc-9364-404f-bbc8-dbf4b16e4416",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07186269770088,
+            37.495387237914692
+          ],
+          [
+            127.07186791958678,
+            37.495378206093605
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "f54cc8ab-b2e4-432c-9de2-11a7bf4de540",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07187534939365,
+            37.495427352974694
+          ],
+          [
+            127.07188051125786,
+            37.495418424967639
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "36adff3e-076d-4a23-9f5d-bdfb2080510c",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07203011338473,
+            37.496009175876914
+          ],
+          [
+            127.07203623559577,
+            37.495998586845289
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "779af1c3-d4c0-44fd-885e-46919c9dfc94",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    },
+    {
+      "feature_type" : "opening",
+      "geometry" : {
+        "coordinates" : [
+          [
+            127.07178616096463,
+            37.495487653368791
+          ],
+          [
+            127.07177258910045,
+            37.495483021835398
+          ]
+        ],
+        "type" : "LineString"
+      },
+      "id" : "36bf0f43-27e6-4156-9ffb-d96e63a39d05",
+      "properties" : {
+        "access_control" : null,
+        "accessibility" : null,
+        "alt_name" : null,
+        "category" : null,
+        "display_point" : null,
+        "door" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : null
+      },
+      "type" : "Feature"
+    }
+  ],
+  "type" : "FeatureCollection"
+}

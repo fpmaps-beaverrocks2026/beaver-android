@@ -1,0 +1,55 @@
+{
+  "features" : [
+    {
+      "feature_type" : "section",
+      "geometry" : {
+        "coordinates" : [
+          [
+            [
+              127.07209963847727,
+              37.49650883118435
+            ],
+            [
+              127.07203784409131,
+              37.496382577592378
+            ],
+            [
+              127.07220366048173,
+              37.496332417793546
+            ],
+            [
+              127.07226545486769,
+              37.496458671385518
+            ],
+            [
+              127.07209963847727,
+              37.49650883118435
+            ]
+          ]
+        ],
+        "type" : "Polygon"
+      },
+      "id" : "9c94503c-03aa-4aac-987b-5dde42bd5735",
+      "properties" : {
+        "accessibility" : null,
+        "address_id" : null,
+        "alt_name" : {
+          "en" : "Performance Area",
+          "ko" : "공연 구역"
+        },
+        "category" : "entertainmentarea.performance",
+        "correlation_id" : null,
+        "display_point" : null,
+        "level_id" : "c395e596-5213-4c47-bd08-8a3e5c96bf98",
+        "name" : {
+          "en" : "Performance Area",
+          "ko" : "공연 구역"
+        },
+        "parents" : null,
+        "restriction" : null
+      },
+      "type" : "Feature"
+    }
+  ],
+  "type" : "FeatureCollection"
+}
